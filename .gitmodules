@@ -1,3 +1,12 @@
 [submodule "System/libasm"]
 	path = System/libasm
 	url = git@github.com:MoustikBe/libasm.git
+[submodule "System/malloc"]
+	path = System/malloc
+	url = git@github.com:MoustikBe/malloc.git
+[submodule "AI/ft_linear_regression"]
+	path = AI/ft_linear_regression
+	url = git@github.com:Max-I-C/ft_linear_regression
+[submodule "AI/learn2slither"]
+	path = AI/learn2slither
+	url = git@github.com:Max-I-C/learn2slither
